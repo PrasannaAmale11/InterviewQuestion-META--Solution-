@@ -1,8 +1,11 @@
-# React + Vite
+# FRONTEND INTERVIEW QUESTION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Q. Create two divs (boxes) each containing a checkbox and label with arbitrary values. Implement two buttons between them. When a user clicks or checks a checkbox and then clicks the arrow buttons pointing towards the opposite direction, the checked item should be removed from its current div and added to the opposite div, and vice versa</p>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![image](https://github.com/PrasannaAmale11/InterviewQuestion-META--Solution-/assets/110029115/ba61d9d9-eecc-46cb-a37b-2509badde21b)
+
+
+
+
