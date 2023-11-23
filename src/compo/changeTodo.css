@@ -1,0 +1,28 @@
+.wholeDiv{
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.firstList, .SecondtList{
+    border: 1px solid rgb(0, 0, 0);
+    height: 60vh;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid white;
+    padding-top: 20px;
+}
+.namesWAla{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    align-items: center;
+}
+
+.checkbox{
+    accent-color: #9d3039;
+    height: 20px;
+    width: 20px;
+}
