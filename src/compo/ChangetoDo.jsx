@@ -49,7 +49,7 @@
 
     return (
       <>
-        <div className={`flex justify-between p-4 mt-6 wholeDiv ${leftItems.length === 0 ? 'emptyList' : ''}`}>
+        <div className={`flex justify-between p-4 mt-6 max-[768px]:gap-5 wholeDiv ${leftItems.length === 0 ? 'emptyList' : ''}`}>
           <div className='firstList'>
             {leftItems.length === 0 ? <EmptyImage /> :
               leftItems.map((item) => (
@@ -66,7 +66,7 @@
               ))}
           </div>
 
-          <div className='flex flex-col gap-5 items-center mt-14'>
+          <div className='flex flex-col gap-5 items-center lg:mt-14'>
             <button className="bg-blue-500 text-white px-2 py-1" onClick={handleToRight}>
               <Icon icon="raphael:arrowleft" rotate={2} />
             </button>
