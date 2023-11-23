@@ -4,7 +4,8 @@
 
 
 
-![image](https://github.com/PrasannaAmale11/InterviewQuestion-META--Solution-/assets/110029115/ba61d9d9-eecc-46cb-a37b-2509badde21b)
+![image](https://github.com/PrasannaAmale11/InterviewQuestion-META--Solution-/assets/110029115/0237a0ba-fee1-4650-af7a-3aa03cc83d55)
+
 
 
 
